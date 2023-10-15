@@ -1,3 +1,3 @@
-output hello1 {
-    value = "Hello World"
+output rava {
+    value = "Hello Terraform"
 }
